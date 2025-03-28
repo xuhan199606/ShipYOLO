@@ -83,4 +83,4 @@ We also built the code(ShipYOLO-mmdet) based on mmdetection which is in "project
 ## Communication
 
 - zhaolining@dlmu.edu.cn
-- cn.xuhan@139.com
+- xuhan199606@163.com
